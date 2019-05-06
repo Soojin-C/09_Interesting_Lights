@@ -39,5 +39,5 @@ t = new_matrix()
 ident(t)
 csystems = [ t ]
 
-
 parse_file( 'script', edges, polygons, csystems, screen, zbuffer, color, view, ambient, light, areflect, dreflect, sreflect)
+#parse_file( 'script2', edges, polygons, csystems, screen, zbuffer, color, view, ambient, light, areflect, dreflect, sreflect)
